@@ -11,3 +11,10 @@ Given two strings, a and b,  that may or may not be of the same length, determin
 For example, if a = cde and b = dcf, we can delete e from string a and f from string b so that both the remaining strings are cd  and dc which are anageams.
 
 # Function Description
+
+Complete the makeAnagram function in the editor below. It must return an integer representing the minimum total characters that must be deleted to make the strings anagrams.
+makeAnagram has the following parameter(s):
+
+1.	a: a string
+
+2.	b: a string
