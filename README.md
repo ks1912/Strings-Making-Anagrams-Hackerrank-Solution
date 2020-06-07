@@ -30,3 +30,18 @@ The second line contains a single string,b .
 1.	1 < = |a|, |b| =< ( 10 power 4 ) 
 
 2. 	The strings a and b consist of lowercase English alphabetic letters ascii[a-z].
+
+# Output Format
+
+Print a single integer denoting the number of characters you must delete to make the two strings anagrams of each other.
+
+# Sample Input
+
+cde
+abc
+
+# Sample Output
+
+4
+
+# Explanation
