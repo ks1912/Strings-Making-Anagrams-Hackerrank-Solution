@@ -38,6 +38,7 @@ Print a single integer denoting the number of characters you must delete to make
 # Sample Input
 
 cde
+
 abc
 
 # Sample Output
@@ -45,3 +46,11 @@ abc
 4
 
 # Explanation
+
+We delete the following characters from our two strings to turn them into anagrams of each other:
+
+1.	Remove d and e from cde to get c.
+
+2.	Remove a and b from abc to get c.
+
+We must delete 4 characters to make both strings anagrams, so we print  on a new line.
