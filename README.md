@@ -18,3 +18,15 @@ makeAnagram has the following parameter(s):
 1.	a: a string
 
 2.	b: a string
+
+# Input Format
+
+The first line contains a single string,a .
+
+The second line contains a single string,b .
+
+# Constraints
+
+1.	1 < = |a|, |b| =< ( 10 power 4 ) 
+
+2. 	The strings a and b consist of lowercase English alphabetic letters ascii[a-z].
