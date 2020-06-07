@@ -54,3 +54,14 @@ We delete the following characters from our two strings to turn them into anagra
 2.	Remove a and b from abc to get c.
 
 We must delete 4 characters to make both strings anagrams, so we print  on a new line.
+
+# More Inputs
+1.
+•	fcrxzwscanmligyxyvym
+
+•	jxwtrhvujlmrpdoqbisbwhmgpmeoke
+
+2.
+•	showman
+
+•	woman
